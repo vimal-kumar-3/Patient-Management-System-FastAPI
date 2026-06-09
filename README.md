@@ -21,3 +21,5 @@ A FastAPI-based RESTful API for managing patient records.
 pip install -r requirements.txt
 
 uvicorn main:app --reload
+## Note
+Note: The patient records included in this repository are fictional and are provided solely for demonstration and testing purposes.
